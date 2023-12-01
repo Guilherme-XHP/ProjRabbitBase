@@ -40,7 +40,6 @@
     {"id":{"name":"obj_ak47","path":"objects/obj_ak47/obj_ak47.yy",},},
     {"id":{"name":"fnt_game","path":"fonts/fnt_game/fnt_game.yy",},},
     {"id":{"name":"spr_ak","path":"sprites/spr_ak/spr_ak.yy",},},
-    {"id":{"name":"obj_fake_wall","path":"objects/obj_fake_wall/obj_fake_wall.yy",},},
     {"id":{"name":"scr_keys","path":"scripts/scr_keys/scr_keys.yy",},},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
     {"id":{"name":"obj_map","path":"objects/obj_map/obj_map.yy",},},

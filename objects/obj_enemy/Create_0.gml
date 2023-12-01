@@ -1,3 +1,5 @@
 path = path_add();
 
-life = 100;
+timer = 10;
+
+life = 10;

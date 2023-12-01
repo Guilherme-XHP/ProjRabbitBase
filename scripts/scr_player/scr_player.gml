@@ -20,5 +20,14 @@ function scr_player(){
 	}
 	
 	scr_collision();
+	
+	if key_drop and obj_ak47.on_hand = true {
+		obj_ak47.on_hand = false;
+		obj_ak47.drop_timer--;
+		direction = point_direction(x, y, mouse_x, mouse_y);
+		obj_ak47.direction = direction + random_range(-10, 10);
+		obj_ak47.speed = 10 + obj_ak47.acc;
+		obj_ak47.image_angle = direction;
+	}
 
 }
