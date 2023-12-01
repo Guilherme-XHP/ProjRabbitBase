@@ -1,6 +1,6 @@
 Licença Pública Geral GNU v3.0 (GPL-3.0)
 
-Este é um contrato legal entre você e os contribuidores individuais listados no arquivo de autoria (AUTHORS.md) incluído neste projeto. Ao utilizar, modificar ou distribuir este software (doravante referido como "o Software"), você concorda com os termos e condições desta Licença Pública Geral GNU v3.0.
+Este é um contrato legal entre você e os contribuidores individuais listados no arquivo incluído neste projeto. Ao utilizar, modificar ou distribuir este software (doravante referido como "o Software"), você concorda com os termos e condições desta Licença Pública Geral GNU v3.0.
 
 1. Concessão de Licença:
 1.1. Os contribuidores concedem a você uma licença mundial, irrevogável, não exclusiva e gratuita para usar, modificar e distribuir o Software conforme os termos desta licença.
