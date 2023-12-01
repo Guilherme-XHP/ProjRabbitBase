@@ -78,7 +78,7 @@
 <h4 align="center" id="licenca">📜 Licença</h4>
 
 <p align="center">
-  Descrição da licença e termos legais.
+  <a href="DIREITOS.md">DIREITOS.md</a><br>
 </p>
 
 <h4 align="center" id="wiki">❓ Dúvidas - Wiki</h4>
