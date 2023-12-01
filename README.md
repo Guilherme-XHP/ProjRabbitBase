@@ -78,7 +78,7 @@
 <h4 align="center" id="licenca">📜 Licença</h4>
 
 <p align="center">
-  <a href="DIREITOS.md">DIREITOS.md</a><br>
+  <a href="contrato_legal.md">contrato_legal.md</a><br>
 </p>
 
 <h4 align="center" id="wiki">❓ Dúvidas - Wiki</h4>
