@@ -4,6 +4,12 @@
 
 <p align="center">
   <img src="icon.png" width="64" height="64"/>
+  </br>
+  <img alt="GitHub License" src="https://img.shields.io/github/license/xinguhe/Project-B.H.R.E">
+  </br>
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/xinguhe/Project-B.H.R.E">
+  <img alt="GitHub forks" src="https://img.shields.io/github/forks/xinguhe/Project-B.H.R.E">
+  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/xinguhe/Project-B.H.R.E">
 </p>
 
 <p align="center">
@@ -28,46 +34,56 @@
         </sub>
       </a>
     </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/148603088?s=200&v=4" width="100px;" alt="Foto da [AUTOCOMPLETAR] no GitHub"/><br>
-        <sub>
-          <p>Moring Star Studios</p>
-        </sub>
-      </a>
-    </td>
   </tr>
 </table>
 
 <h4 align="center">
-  Este projeto é um reflexo da visão singular de seu criador, tentando integrar diversas tecnologias e funcionalidades. 
+  "Este projeto é um reflexo da visão singular de seu criador, tentando integrar diversas tecnologias e funcionalidades."
+  </br>
+  **Guilherme Caetano**
 </h4>
 
 <hr>
 
+<h3 align="center">
+  Project B.H.R.E (Bullet Hell Rhythm Engine)
+</h3>
+
 <p align="center">Características Principais Planejadas: </p>
 
 <p align="justify">
-  <ul>
+  <ol>
     <li>
-      Combinação de Bullet Hell e Ritmo: O Projeto B.H.R.E busca unir a intensidade do "bullet hell" com a precisão rítmica. Os jogadores serão desafiados a enfrentar ondas de projéteis enquant
-      sincronizam suas ações com uma trilha sonora envolvente, proporcionando uma experiência de jogo única e imersiva.
+      Combinação de Bullet Hell e Ritmo: O Projeto B.H.R.E busca unir o "bullet hell" com a uma jogabilidade rítmica. Onde levara o jogador a enfrentar ondas de projéteis enquanto
+      sincronizam suas ações com uma trilha sonora envolvente (Welcome To The Jungle), proporcionando uma experiência de jogo única.
     </li>
+    </br>
     <li>
-      Integração com a Twitch: Uma característica notável é a integração direta com a plataforma Twitch. Isso permite que o streamer envolva sua audiência de maneira interativa, incorporando elementos do
+      Integração com a Twitch: Uma característica sera a integração com o chat da plataforma Twitch. Permitindo que o streamer envolva sua audiência de maneira interativa, incorporando elementos do
       chat na jogabilidade e criando desafios dinâmicos baseados nas interações dos espectadores.
     </li>
+    </br>
     <li>
-      ChatGPT para Narrativa Dinâmica: A inclusão do ChatGPT contribui para a criação de narrativas dinâmicas e interativas. O sistema é capaz de responder às ações dos jogadores e interações do
-      chat,proporcionando uma experiência de jogo personalizada e cativante.
+      ChatGPT para Narrativa Dinâmica (Diálogos): A inclusão do ChatGPT para a criação de falas dinâmicase diferentes para cada jogador. Com um sistema é capaz de responder às ações dos jogadores e 
+      interações do chat da twitch, Isso proporcionando uma experiência de jogo personalizada.
     </li>
+    </br>
     <li>
-      Sistema de Áudio Avançado com FMOD: O Projeto B.H.R.E utiliza o poderoso sistema de áudio FMOD para proporcionar uma experiência sonora imersiva e adaptativa. A trilha sonora e os efeitos sonoros
-      reagem dinamicamente às ações do jogador, adicionando uma camada extra de complexidade e envolvimento.
+      Sistema de Áudio com FMOD: O Projeto B.H.R.E utiliza o poderoso sistema de áudio FMOD para proporcionar uma experiência sonora imersiva e adaptativa.
     </li>
-    <li>
-      Desenvolvimento Individual e Dedicação: Destacando-se como um projeto desenvolvido por uma única pessoa, o Projeto B.H.R.E é uma expressão de criatividade e dedicação. Cada linha de código,
-      elemento visual e ajuste de jogabilidade é cuidadosamente concebido para criar uma experiência única e memorável.
-    </li>
-  </ul>
+    </br>
+  </ol>
+</p>
+
+<hr>
+
+<h4 align="center">
+  📫 Quer Ajudar No Projeto
+</h4>
+
+<p align="center">
+  Caso queria ajudar no projeto e Ter seu nome em todos os updates. 
+  </br></br>
+  <a href="guilhermecaetanno87123@gmail.com">E-mail (Pessoal)</a></br>
+  <a href="https://api.whatsapp.com/send/?phone=%2B5534996386599&text=Ol%C3%A1%2C+XinguheProd&type=phone_number&app_absent=0">WhatsApp</a></br>
 </p>
