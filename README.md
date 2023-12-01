@@ -41,12 +41,12 @@
 <p align="justify">
   <ol>
     <li>
-      <strong>Base Modular:</strong> O Projeto X.G.B busca uma base modular, permitindo a criação de diversos tipos de jogos, como metroidvania, bullet hell ou RPG. Isso facilita tanto a montagem do jogo
+      <strong>Base Solida:</strong> O Projeto X.G.B busca uma base solida, permitindo a leitura e edição do código de maneira rápida. Isso facilita tanto a montagem do jogo
       por iniciantes quanto a modificação por usuários mais avançados.
     </li>
     <br>
     <li>
-      <strong>Integração com a Twitch:</strong> Uma característica única será a integração com o chat da plataforma Twitch. Isso permitirá que o streamer envolva sua audiência de maneira interativa,
+      <strong>Integração com a Twitch:</strong> Uma característica será a integração com o chat da plataforma Twitch. Isso permitirá que o streamer envolva sua audiência de maneira interativa,
       incorporando elementos do chat na jogabilidade e criando desafios dinâmicos baseados nas interações dos espectadores.
     </li>
     <br>
