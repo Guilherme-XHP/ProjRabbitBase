@@ -1,17 +1,17 @@
-<h2 align="center">Projeto X.G.B (Xingu Game Base)</h2>
+<h2 align="center">Rabbit Metroid Farm Game</h2>
 
 <p align="center">
-  <img src="icon.png" width="64" height="64" alt="Ícone do Projeto X.G.B">
+  <img src="icon.png" width="64" height="64" alt="Ícone do Placeholder">
   <br>
-  <img alt="GitHub License" src="https://img.shields.io/github/license/xinguhe/Gamemaker_Xingu_Game_Base">
+  <img alt="GitHub License" src="https://img.shields.io/github/license/Guilherme-XHP/Rabbit_Metroid_Farm_Game">
   <br>
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/xinguhe/Gamemaker_Xingu_Game_Base">
-  <img alt="GitHub forks" src="https://img.shields.io/github/forks/xinguhe/Gamemaker_Xingu_Game_Base">
-  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/xinguhe/Gamemaker_Xingu_Game_Base">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Guilherme-XHP/Rabbit_Metroid_Farm_Game">
+  <img alt="GitHub forks" src="https://img.shields.io/github/forks/Guilherme-XHP/Rabbit_Metroid_Farm_Game">
+  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Guilherme-XHP/Rabbit_Metroid_Farm_Game">
 </p>
 
 <p align="center">
-  O Projeto X.G.B (Xingu Game Base) está em estágios iniciais de desenvolvimento e é liderado por:
+  O Projeto está em estágios iniciais de desenvolvimento e é liderado por:
 </p>
 
 <table align="center">
@@ -41,13 +41,11 @@
 <p align="justify">
   <ol>
     <li>
-      <strong>Base Solida:</strong> O Projeto X.G.B busca uma base solida, permitindo a leitura e edição do código de maneira rápida. Isso facilita tanto a montagem do jogo
-      por iniciantes quanto a modificação por usuários mais avançados.
+      <strong>Base Solida:</strong> O Projeto busca uma base solida, permitindo a leitura e edição do código de maneira rápida. Isso facilita tanto a montagem do jogo.
     </li>
     <br>
     <li>
-      <strong>Integração com a Twitch:</strong> Uma característica será a integração com o chat da plataforma Twitch. Isso permitirá que o streamer envolva sua audiência de maneira interativa,
-      incorporando elementos do chat na jogabilidade e criando desafios dinâmicos baseados nas interações dos espectadores.
+      <strong>Integração com a Twitch:</strong> Uma característica será a integração com o chat da plataforma Twitch.
     </li>
     <br>
     <li>
@@ -56,7 +54,7 @@
     </li>
     <br>
     <li>
-      <strong>Sistema de Áudio com FMOD:</strong> O Projeto X.G.B utiliza o poderoso sistema de áudio FMOD para proporcionar uma experiência sonora imersiva e adaptativa.
+      <strong>Sistema de Áudio com FMOD:</strong> O Projeto utiliza (eu acho) o poderoso sistema de áudio FMOD para proporcionar uma experiência sonora imersiva e adaptativa.
     </li>
     <br>
   </ol>
