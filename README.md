@@ -1,7 +1,7 @@
 <h2 align="center">Rabbit Metroid Farm Game</h2>
 
 <p align="center">
-  <img src="icon.png" width="64" height="64" alt="Ícone do Placeholder">
+  <img src="placeholder.png" width="64" height="64" alt="Ícone do Placeholder">
   <br>
   <img alt="GitHub License" src="https://img.shields.io/github/license/Guilherme-XHP/Rabbit_Metroid_Farm_Game">
   <br>
