@@ -36,7 +36,7 @@
 
 <hr>
 
-<h3 align="center">Características Principais Planejadas para o Projeto X.G.B (Xingu Game Base)</h3>
+<h3 align="center">Características Principais Planejadas</h3>
 
 <p align="justify">
   <ol>
