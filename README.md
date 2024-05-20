@@ -54,8 +54,6 @@
 
 <hr>
 
-<hr>
-
 <h4 align="center" id="licenca">📜 Licença</h4>
 
 <p align="center">
