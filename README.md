@@ -1,4 +1,4 @@
-<h2 align="center">Rabbit Metroid Farm Game</h2>
+<h2 align="center">Project Rabbit Public Base</h2>
 
 <p align="center">
   <img src="placeholder.png" width="64" height="64" alt="Ícone do Placeholder">
@@ -40,17 +40,9 @@
 
 <p align="justify">
   <ol>
-    <li>
-      <strong>Base Solida:</strong> O Projeto busca uma base solida, permitindo a leitura e edição do código de maneira rápida. Isso facilita tanto a montagem do jogo.
-    </li>
     <br>
     <li>
       <strong>Integração com a Twitch:</strong> Uma característica será a integração com o chat da plataforma Twitch.
-    </li>
-    <br>
-    <li>
-      <strong>ChatGPT para Narrativa Dinâmica (Diálogos):</strong> A inclusão do ChatGPT para a criação de falas dinâmicas e exclusivas para cada jogador. O sistema é capaz de responder às ações dos
-      jogadores e interações do chat da Twitch, proporcionando uma experiência de jogo personalizada.
     </li>
     <br>
     <li>
@@ -62,25 +54,10 @@
 
 <hr>
 
-<h4 align="center">📫 Quer Ajudar No Projeto</h4>
-
-<p align="center">
-  Se você deseja contribuir para o projeto e ter seu nome em todos os updates:
-  <br><br>
-  <a href="mailto:guilhermecaetanno87123@gmail.com">E-mail (Pessoal)</a><br>
-  <a href="https://api.whatsapp.com/send/?phone=%2B5534996386599&text=Ol%C3%A1%2C+XinguheProd&type=phone_number&app_absent=0">WhatsApp</a><br>
-</p>
-
 <hr>
 
 <h4 align="center" id="licenca">📜 Licença</h4>
 
 <p align="center">
   <a href="contrato_legal.md">contrato_legal.md</a><br>
-</p>
-
-<h4 align="center" id="wiki">❓ Dúvidas - Wiki</h4>
-
-<p align="center">
-  Consulte nossa Wiki para respostas às perguntas frequentes e mais informações sobre o projeto.
 </p>
